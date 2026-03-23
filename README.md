@@ -6,3 +6,5 @@ Este projeto tem como objetivo analisar o desempenho de um e-commerce a partir d
 Análise das Vendas: A página de Análise das Vendas apresenta indicadores de faturamento, volume de pedidos, tempo médio de envio, frete e avaliação média dos clientes. Os gráficos apresentam insights sobre a receita ao longo do tempo (ano/mês), receita e frete médio por produto.
 
 Análise por Estado: A Análise por Estado permite identificar diferenças regionais no comportamento de compra e na geração de receita. Os gráficos apresentam insights sobre o ticket e frete médio por estado, receita vs volume de pedidos e tempo médio de resposta ao cliente (dias).
+
+Análise das Entregas: A Análise das Entregas avalia a eficiência logística, considerando prazos e qualidade do serviço. Os gráficos apresentam insights sobre o tempo médio de entrega por estado (dias), total de entregas fora do prazo por estado, volume de entregas no prazo vs atrasadas ao longo do tempo e taxa de entregas no prazo ao longo do tempo.
