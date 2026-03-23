@@ -8,3 +8,5 @@ Análise das Vendas: A página de Análise das Vendas apresenta indicadores de f
 Análise por Estado: A Análise por Estado permite identificar diferenças regionais no comportamento de compra e na geração de receita. Os gráficos apresentam insights sobre o ticket e frete médio por estado, receita vs volume de pedidos e tempo médio de resposta ao cliente (dias).
 
 Análise das Entregas: A Análise das Entregas avalia a eficiência logística, considerando prazos e qualidade do serviço. Os gráficos apresentam insights sobre o tempo médio de entrega por estado (dias), total de entregas fora do prazo por estado, volume de entregas no prazo vs atrasadas ao longo do tempo e taxa de entregas no prazo ao longo do tempo.
+
+Análise por Tipo de Pagamento: A Análise por Tipo de Pagamento explora as preferências dos clientes e o impacto dos meios de pagamento nas vendas. Os gráficos apresentam insights sobre o total de vendas por tipo de pagamento ao longo do tempo, ticket médio por tipo de pagamento e receita por tipo de pagamento e estado.
