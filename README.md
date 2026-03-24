@@ -23,6 +23,12 @@ A página de Análise por Estado permite identificar diferenças regionais no co
 
 <img width="1419" height="792" alt="image" src="https://github.com/user-attachments/assets/912702b4-c66d-450b-baf7-ec943766e521" />
 
+Ticket médio por estado: Revela diferenças no valor médio das compras entre regiões, indicando mercados com maior poder de consumo.
+
+Frete médio por estado: Demonstra variações no custo logístico, podendo indicar regiões mais caras de atender.
+
+Receita vs volume de pedidos: Comparação entre os estados com maior receita e volume de pedidos.
+
 
 ---
 
