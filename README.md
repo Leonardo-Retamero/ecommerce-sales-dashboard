@@ -6,7 +6,9 @@ Este projeto tem como objetivo analisar o desempenho de um e-commerce a partir d
 ---
 
 ### 1️⃣ Análise das Vendas
-Análise das Vendas: A página de Análise das Vendas apresenta indicadores de faturamento, volume de pedidos, tempo médio de envio, frete e avaliação média dos clientes que são acompanhados por indicadores complementares. Os gráficos apresentam insights sobre a receita ao longo do tempo (ano/mês), receita e frete médio por produto.
+A página de Análise das Vendas apresenta indicadores de faturamento, volume de pedidos, tempo médio de envio, frete e avaliação média dos clientes que são acompanhados por indicadores complementares. Os gráficos apresentam insights sobre a receita ao longo do tempo (ano/mês), receita e frete médio por produto.
+
+<img width="1409" height="793" alt="image" src="https://github.com/user-attachments/assets/e33b06c1-2bec-4ce9-90e0-2c0e58154214" />
 
 Receita ao longo do tempo (ano/mês): Permite identificar tendências de crescimento ou sazonalidade nas vendas, evidenciando períodos de alta e queda no faturamento.
 
