@@ -18,7 +18,11 @@ Frete médio por produto: Possibilita avaliar o impacto logístico por produto, 
 
 ---
 
-Análise por Estado: A Análise por Estado permite identificar diferenças regionais no comportamento de compra e na geração de receita. Os gráficos apresentam insights sobre o ticket e frete médio por estado, receita vs volume de pedidos e tempo médio de resposta ao cliente (dias).
+### 2️⃣ Análise por Estado
+A página de Análise por Estado permite identificar diferenças regionais no comportamento de compra e na geração de receita. Os gráficos apresentam insights sobre o ticket e frete médio por estado, receita vs volume de pedidos e tempo médio de resposta ao cliente (dias).
+
+<img width="1419" height="792" alt="image" src="https://github.com/user-attachments/assets/912702b4-c66d-450b-baf7-ec943766e521" />
+
 
 ---
 
