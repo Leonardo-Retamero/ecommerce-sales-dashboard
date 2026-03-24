@@ -10,6 +10,9 @@ Análise das Vendas: A página de Análise das Vendas apresenta indicadores de f
 
 Receita ao longo do tempo (ano/mês): Permite identificar tendências de crescimento ou sazonalidade nas vendas, evidenciando períodos de alta e queda no faturamento.
 
+Receita por produto: Destaca os produtos mais relevantes para o faturamento e os produtos que menos vendem.
+
+Frete médio por produto: Possibilita avaliar o impacto logístico por produto, é possível identifacar que produtos mais caros tendem a ter o frete médio maior.
 
 ---
 
