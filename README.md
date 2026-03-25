@@ -36,13 +36,13 @@ A Análise das Entregas avalia a eficiência logística, considerando prazos e q
 
 <img width="1441" height="806" alt="image" src="https://github.com/user-attachments/assets/49372eb4-9909-4797-994c-c1397621036a" />
 
-Tempo médio de entrega por estado: Mostra diferenças regionais na eficiência logística, identificando estados com maior tempo de entrega.
+- Tempo médio de entrega por estado: Mostra diferenças regionais na eficiência logística, identificando estados com maior tempo de entrega.
 
-Total de entregas fora do prazo por estado: Estados com maior volume de pedidos possuem mais entregas atrasados, indicando que a logística tem dificuldades em dar conta da demanda.
+- Total de entregas fora do prazo por estado: Estados com maior volume de pedidos possuem mais entregas atrasados, indicando que a logística tem dificuldades em dar conta da demanda.
 
-Entregas no prazo vs atrasadas ao longo do tempo: Permite analisar a evolução da performance logística, identificando melhorias ou pioras ao longo do tempo.
+- Entregas no prazo vs atrasadas ao longo do tempo: Permite analisar a evolução da performance logística, identificando melhorias ou pioras ao longo do tempo.
 
-Taxa de entregas no prazo ao longo do tempo: Mede a qualidade do serviço logístico, indicando consistência e eficiência das entregas.
+- Taxa de entregas no prazo ao longo do tempo: Mede a qualidade do serviço logístico, indicando consistência e eficiência das entregas.
 
 ---
 
