@@ -51,10 +51,10 @@ A Análise por Tipo de Pagamento explora as preferências dos clientes e o impac
 
 <img width="1480" height="825" alt="image" src="https://github.com/user-attachments/assets/6d3798ee-af5d-44c6-9d0f-b802784dd5bc" />
 
-Vendas por tipo de pagamento ao longo do tempo: Identifica tendências no uso dos meios de pagamento, mostrando mudanças no comportamento dos clientes.
+- Vendas por tipo de pagamento ao longo do tempo: Identifica tendências no uso dos meios de pagamento, mostrando mudanças no comportamento dos clientes.
 
-Ticket médio por tipo de pagamento: Revela quais métodos estão associados a compras de maior e menor valor.
+- Ticket médio por tipo de pagamento: Revela quais métodos estão associados a compras de maior e menor valor.
 
-Receita por tipo de pagamento e estado: Permite analisar a receita pela distribuição geográfica dos meios de pagamento.
+- Receita por tipo de pagamento e estado: Permite analisar a receita pela distribuição geográfica dos meios de pagamento.
 
 
