@@ -49,7 +49,7 @@ Taxa de entregas no prazo ao longo do tempo: Mede a qualidade do serviço logís
 ### 4️⃣ Análise por Tipo de Pagamento
 A Análise por Tipo de Pagamento explora as preferências dos clientes e o impacto dos meios de pagamento nas vendas. Os gráficos apresentam insights sobre o total de vendas por tipo de pagamento ao longo do tempo, ticket médio por tipo de pagamento e receita por tipo de pagamento e estado.
 
-<img width="1442" height="803" alt="image" src="https://github.com/user-attachments/assets/c3a698a9-911d-4f8c-9048-a41acad678ab" />
+<img width="1480" height="825" alt="image" src="https://github.com/user-attachments/assets/6d3798ee-af5d-44c6-9d0f-b802784dd5bc" />
 
 Vendas por tipo de pagamento ao longo do tempo: Identifica tendências no uso dos meios de pagamento, mostrando mudanças no comportamento dos clientes.
 
