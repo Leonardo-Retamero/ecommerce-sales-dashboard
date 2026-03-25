@@ -31,7 +31,7 @@ Receita vs volume de pedidos: Comparação entre os estados com maior receita e 
 
 ---
 
-### 3️⃣ Análise das Entregas
+### 🚚 Análise das Entregas
 A Análise das Entregas avalia a eficiência logística, considerando prazos e qualidade do serviço. Os gráficos apresentam insights sobre o tempo médio de entrega por estado (dias), total de entregas fora do prazo por estado, volume de entregas no prazo vs atrasadas ao longo do tempo e taxa de entregas no prazo ao longo do tempo.
 
 <img width="1441" height="806" alt="image" src="https://github.com/user-attachments/assets/49372eb4-9909-4797-994c-c1397621036a" />
