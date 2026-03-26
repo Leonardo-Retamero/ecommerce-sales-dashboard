@@ -90,3 +90,12 @@ CALCULATE(
     pedidos[status_pedido] = "canceled"
 )
 ```
+### Taxa de Cancelamento
+
+```dax
+Taxa Cancelamento: = 
+DIVIDE(
+    [Pedidos Cancelados:],
+    DISTINCTCOUNT(pedidos[id_pedido])
+)
+```
