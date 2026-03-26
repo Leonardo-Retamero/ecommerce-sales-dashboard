@@ -81,3 +81,12 @@ DIVIDE(
     SUM(itens_pedido[preço])
 )
 ```
+### Pedidos Cancelados
+
+```dax
+Pedidos Cancelados: = 
+CALCULATE(
+    DISTINCTCOUNT(pedidos[id_pedido]),
+    pedidos[status_pedido] = "canceled"
+)
+```
