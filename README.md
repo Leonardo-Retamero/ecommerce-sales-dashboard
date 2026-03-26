@@ -57,4 +57,6 @@ A Análise por Tipo de Pagamento explora as preferências dos clientes e o impac
 
 - Receita por tipo de pagamento e estado: Permite analisar a receita pela distribuição geográfica dos meios de pagamento.
 
+---
 
+### 🛠️ Princípais Medidas DAX
