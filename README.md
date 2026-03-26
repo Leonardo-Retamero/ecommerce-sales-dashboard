@@ -60,3 +60,12 @@ A Análise por Tipo de Pagamento explora as preferências dos clientes e o impac
 ---
 
 ### 🛠️ Princípais Medidas DAX
+
+### Ticket Médio
+```dax
+Ticket Médio: = 
+DIVIDE(
+    [Receita Total],
+    DISTINCTCOUNT(pedidos[id_pedido])
+)
+```
