@@ -69,3 +69,15 @@ DIVIDE(
     DISTINCTCOUNT(pedidos[id_pedido])
 )
 ```
+
+### % Margem de Lucro
+
+```dax
+Margem Após Frete = SUM(itens_pedido[preço]) - [Frete]
+
+% Margem = 
+DIVIDE(
+    [Margem Após Frete],
+    SUM(itens_pedido[preço])
+)
+```
