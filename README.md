@@ -110,3 +110,12 @@ DIVIDE(
     0
 )
 ```
+
+### Entregas Fora do Prazo
+```dax
+Entregas Fora do Prazo: = 
+CALCULATE(
+    DISTINCTCOUNT(pedidos[id_pedido]),
+    pedidos[status_entrega] = "Fora do Prazo"
+)
+```
