@@ -99,3 +99,14 @@ DIVIDE(
     DISTINCTCOUNT(pedidos[id_pedido])
 )
 ```
+
+### Taxa de Entregas no Prazo
+
+```dax
+Taxa No Prazo: = 
+DIVIDE(
+    [Pedidos No Prazo],
+    [Pedidos Entregues],
+    0
+)
+```
