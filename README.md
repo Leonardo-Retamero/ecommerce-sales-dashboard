@@ -119,3 +119,9 @@ CALCULATE(
     pedidos[status_entrega] = "Fora do Prazo"
 )
 ```
+
+### Frete Médio
+
+```dax
+Frete Médio: = AVERAGE(itens_pedido[valor_frete])
+```
