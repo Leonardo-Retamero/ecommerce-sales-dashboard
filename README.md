@@ -128,3 +128,11 @@ Frete Médio: = AVERAGE(itens_pedido[valor_frete])
 
 ### % do Frete Sobre a Receita
 
+```dax
+% Frete sobre Receita = 
+DIVIDE(
+    [Frete],
+    SUM(itens_pedido[preço]),
+    0
+)
+```
