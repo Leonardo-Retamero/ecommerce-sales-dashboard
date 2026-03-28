@@ -125,3 +125,6 @@ CALCULATE(
 ```dax
 Frete Médio: = AVERAGE(itens_pedido[valor_frete])
 ```
+
+### % do Frete Sobre a Receita
+
