@@ -63,7 +63,7 @@ A Análise por Tipo de Pagamento explora as preferências dos clientes e o impac
 
 ### Ticket Médio
 ```dax
-Ticket Médio: = 
+Ticket Médio = 
 DIVIDE(
     [Receita Total],
     DISTINCTCOUNT(pedidos[id_pedido])
@@ -84,7 +84,7 @@ DIVIDE(
 ### Pedidos Cancelados
 
 ```dax
-Pedidos Cancelados: = 
+Pedidos Cancelados = 
 CALCULATE(
     DISTINCTCOUNT(pedidos[id_pedido]),
     pedidos[status_pedido] = "canceled"
@@ -103,7 +103,7 @@ DIVIDE(
 ### Taxa de Entregas no Prazo
 
 ```dax
-Taxa No Prazo: = 
+Taxa No Prazo = 
 DIVIDE(
     [Pedidos No Prazo],
     [Pedidos Entregues],
@@ -113,7 +113,7 @@ DIVIDE(
 
 ### Entregas Fora do Prazo
 ```dax
-Entregas Fora do Prazo: = 
+Entregas Fora do Prazo = 
 CALCULATE(
     DISTINCTCOUNT(pedidos[id_pedido]),
     pedidos[status_entrega] = "Fora do Prazo"
@@ -123,7 +123,7 @@ CALCULATE(
 ### Frete Médio
 
 ```dax
-Frete Médio: = AVERAGE(itens_pedido[valor_frete])
+Frete Médio = AVERAGE(itens_pedido[valor_frete])
 ```
 
 ### % do Frete Sobre a Receita
