@@ -136,3 +136,9 @@ DIVIDE(
     0
 )
 ```
+
+### Tempo Médio para Responder o Cliente
+
+```dax
+Tempo Resposta (Dias): = AVERAGE('avaliações'[Dias_Resposta])
+```
