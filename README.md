@@ -146,7 +146,7 @@ Tempo Resposta (Dias) = AVERAGE('avaliações'[Dias_Resposta])
 ### Taxa de Resposta
 
 ```dax
-Taxa Resposta: = 
+Taxa Resposta = 
 DIVIDE(
     CALCULATE(
         COUNTROWS('avaliações'),
