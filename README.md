@@ -142,3 +142,19 @@ DIVIDE(
 ```dax
 Tempo Resposta (Dias): = AVERAGE('avaliações'[Dias_Resposta])
 ```
+
+### Taxa de Resposta
+
+```dax
+Taxa Resposta: = 
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('avaliações'),
+        NOT ISBLANK('avaliações'[data_resposta])
+    ),
+    CALCULATE(
+        COUNTROWS('avaliações'),
+        NOT ISBLANK('avaliações'[comentario])
+    )
+)
+```
