@@ -140,7 +140,7 @@ DIVIDE(
 ### Tempo Médio para Responder o Cliente
 
 ```dax
-Tempo Resposta (Dias): = AVERAGE('avaliações'[Dias_Resposta])
+Tempo Resposta (Dias) = AVERAGE('avaliações'[Dias_Resposta])
 ```
 
 ### Taxa de Resposta
