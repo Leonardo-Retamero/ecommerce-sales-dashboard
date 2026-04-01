@@ -158,3 +158,18 @@ DIVIDE(
     )
 )
 ```
+
+### Status da Entrega
+
+```dax
+status_entrega = 
+IF(
+    ISBLANK(pedidos[data_entrega_cliente]),
+    BLANK(),
+    IF(
+        pedidos[data_entrega_cliente] <= pedidos[data_estimada_entrega],
+        "No Prazo",
+        "Fora do Prazo"
+    )
+)
+```
