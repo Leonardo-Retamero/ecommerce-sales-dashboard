@@ -173,3 +173,14 @@ IF(
     )
 )
 ```
+
+### Quantidade de Dias até a Entrega
+
+```dax
+dias_entrega = 
+DATEDIFF(
+    pedidos[data_compra],
+    pedidos[data_entrega_cliente],
+    DAY
+)
+```
