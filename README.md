@@ -21,7 +21,7 @@ A página de Análise das Vendas apresenta indicadores de faturamento, volume de
 ### 🌎 Análise por Estado
 A página de Análise por Estado permite identificar diferenças regionais no comportamento de compra e na geração de receita. Os gráficos apresentam insights sobre o ticket e frete médio por estado, receita vs volume de pedidos e tempo médio de resposta ao cliente (dias).
 
-<img width="1416" height="795" alt="image" src="https://github.com/user-attachments/assets/47723b18-4701-420a-a9af-276bf8009e0b" />
+<img width="1420" height="796" alt="image" src="https://github.com/user-attachments/assets/20fe3abb-bc1a-468d-a6b3-cffecc31f262" />
 
 - Ticket médio por estado: Revela diferenças no valor médio das compras entre regiões, indicando mercados com maior poder de consumo.
 
